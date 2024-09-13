@@ -11,7 +11,35 @@ h1{
 
 nav{
   text-align: center;
+}
+nav .dorime{
   
+  background-color: grey;
+  padding: 10px;
+  
+}
+nav .askari{
+  
+  background-color: grey;
+  padding: 10px
+
+}
+nav .greatness{
+  background-color: grey;
+  padding: 10px;
+
+}
+nav .better{
+  background-color: grey;
+  padding: 10px;
+}
+nav .patience{
+  background-color: grey;
+  padding: 10px;
+}
+nav .honesty{
+  background-color: grey;
+  padding: 10px;
 }
 #featured-property{
   text-align: center;
@@ -29,9 +57,35 @@ nav{
   padding: 0%;
   width:auto
   
+}
   
-  }
 .pickup{
+  float: left;
+  width: 25%;
+  font-size:20px ;
+
+}
+.commander{
+  float: left;
+  width: 25%;
+  font-size:20px ;
+}
+
+.sucess{
+  float: left;
+  width: 25%;
+  font-size:20px ;
+}
+.setit{
+  float: left;
+  width: 25%;
+  font-size:20px ;
+}
+
+
+
+
+/*.pickup{
   font-size: 17px;
   padding-left: 100px;
   padding-right: 80px;
@@ -64,8 +118,3 @@ nav{
   padding-top: 15px; 
 
 }
-
-  
-
-
-
